@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 bufbuild/buf:latest
 snipe/snipe-it
+golang:alpine3.21
