@@ -10,3 +10,4 @@ golang:alpine3.21
 amazoncorretto:21
 amazoncorretto:21-alpine3.21
 redmine:6.0.5
+portainer/helper-reset-password:latest
