@@ -13,3 +13,4 @@ redmine:6.0.5
 portainer/helper-reset-password:latest
 portainer/portainer-ce:2.30.1
 redis/redis-stack:7.4.0-v7
+mariadb:11.8.3
